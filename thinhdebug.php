@@ -4,7 +4,7 @@
  * Plugin Name: Thinh Debug
  * Description: A debugging plugin to log time, HTTP information, and hooks.
  * Version: 1.0
- * Author: Your Name
+ * Author: Thinh Bui
  */
 
 // Ensure WordPress has been loaded before running the plugin
